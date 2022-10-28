@@ -1,1 +1,2 @@
-libft is the first real project of 42 school. In this task we make our own libft library.
+this project consists of coding basic C functions, which are then compiled
+into a library for use in other projects of the cursus
